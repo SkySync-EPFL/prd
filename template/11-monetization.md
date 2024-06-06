@@ -35,7 +35,15 @@
 
 ### Revenue Streams:
 
-Our primary revenue stream will come from a subscription-based model where hot-air balloon companies pay a monthly fee to access our software. The fee structure will be tiered based on the size of the business, primarily determined by the number of employees and the scale of operations. This approach not only ensures scalability of revenue but also aligns our growth with the growth of our clients, providing a sustainable and predictable income stream.
+Our primary revenue stream will come from a hybrid model that includes an initial fee for personalization followed by a subscription-based monthly fee. This structure ensures that each client receives a system tailored to their specific needs, enhancing the value and usability of our software.
+
+#### Initial Fee for Personalization:
+
+Every new client will incur a one-time initial fee designed to cover the costs of personalizing the software to their unique requirements. This fee ensures that the software integrates seamlessly with their existing processes and meets their specific operational needs.
+
+#### Subscription-Based Monthly Fee:
+
+After the initial personalization, clients will transition to a monthly subscription model. The fee structure will be tiered based on the size of the business, primarily determined by the number of employees and the scale of operations. This approach not only ensures scalability of revenue but also aligns our growth with the growth of our clients, providing a sustainable and predictable income stream.
 
 - Basic Tier: For small companies with limited employees and fewer balloons.
 - Professional Tier: For medium-sized companies with more complex operations and staff requirements.
