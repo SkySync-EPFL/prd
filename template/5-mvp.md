@@ -56,4 +56,4 @@
 
 - **Customer Loyalty Programs:** Can be developed later as part of marketing enhancements to award loyality.
 
-- **In-depth Customization Options:** Initially focus on standard solutions adaptable to the general hot-air balloon business and later allow for specific customizations and extensions that applay only to certain companies. Interesting extensions can be collected through feedback forms and then materialized once multiple companies share the same needs.
+- **In-depth Customization Options:** Initially focus on standard solutions adaptable to the general hot-air balloon business and later allow for specific customizations and extensions that apply only to certain companies. Interesting extensions can be collected through feedback forms and then materialized once multiple companies share the same needs.
