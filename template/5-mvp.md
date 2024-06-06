@@ -41,20 +41,19 @@
 
 ## Success Criteria
 
-**1. User Penetration:** Percentage of staff actively using the app within the first three months.
+**1. Adoption:** for committed companies:  ≥80% of their flights for which the app was used during the hot-air balloon summer season (July till end of September) .
 
-**2. Quality/Satisfaction:** User satisfaction ratings gathered through feedback surveys within the app.
+**2. Feedback:** the average of ratings gathered through feedback surveys within the app and ratings shared on the play store should be at least 4 out of 5
 
-**3. Business Impact:** Analysis of operational efficiency improvements and reduction in administrative overhead.
+**3. Market Interest:** get at least 5 companies to commit in the first three months and at least 100 users (approx. 20/company)
 
-**4. Market Acceptance:** Interest and commitments from other balloon companies based on pilot program success stories.
 
 ## Features Outside the Scope
 
 ### Non-Essential Features for MVP:
 
-- **Advanced Analytics and Reporting Tools:** While useful for deep insights, basic reporting suffices for initial stages.
+- **Advanced Analytics:** While more statistics about equipement usage, expenses and staff activities might help to further optimize the internal organisation and efficiency of each enterprise, basic anylitics suffice for initial stages without compromising the main utility of the app. More detailed analyitice can be integrated after carefuly assesing what analyitics are actually generally useful for the companies.
 
-- **Customer Loyalty Programs:** Can be developed later as part of marketing enhancements.
+- **Customer Loyalty Programs:** Can be developed later as part of marketing enhancements to award loyality.
 
-- **In-depth Customization Options for Larger Enterprises:** Initially focus on standard solutions adaptable to most companies.
+- **In-depth Customization Options:** Initially focus on standard solutions adaptable to the general hot-air balloon business and later allow for specific customizations and extensions that applay only to certain companies. Interesting extensions can be collected through feedback forms and then materialized once multiple companies share the same needs.
