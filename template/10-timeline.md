@@ -9,6 +9,7 @@ The project is structured to move from an initial Minimum Viable Product (MVP) t
 **1. Development Team:**
 
 - Lead Developer: Responsible for overseeing the entire application infrastructure, implementing major updates, and ensuring ongoing system stability.
+- Frontend/UI Developer: Responsible of the overall UI implementation, focusing on the robustness and quality of the UI throughout the application.
 - Client Customization Developer: Dedicated to adapting the app for new clients, ensuring that each version meets the specific needs and workflows of different hot-air balloon companies.
 
 **2.Sales and Marketing:**
