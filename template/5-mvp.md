@@ -41,18 +41,17 @@
 
 ## Success Criteria
 
-**1. Adoption:** for committed companies:  ≥80% of their flights for which the app was used during the hot-air balloon summer season (July till end of September) .
+**1. Adoption:** for committed companies: ≥80% of their flights for which the app was used during the hot-air balloon summer season (July till end of September) .
 
 **2. Feedback:** the average of ratings gathered through feedback surveys within the app and ratings shared on the play store should be at least 4 out of 5
 
 **3. Market Interest:** get at least 5 companies to commit in the first three months and at least 100 users (approx. 20/company)
 
-
 ## Features Outside the Scope
 
 ### Non-Essential Features for MVP:
 
-- **Advanced Analytics:** While more statistics about equipement usage, expenses and staff activities might help to further optimize the internal organisation and efficiency of each enterprise, basic anylitics suffice for initial stages without compromising the main utility of the app. More detailed analyitice can be integrated after carefuly assesing what analyitics are actually generally useful for the companies.
+- **Advanced Analytics:** While more statistics about equipement usage, expenses and staff activities might help to further optimize the internal organisation and efficiency of each enterprise, basic anylitics suffice for initial stages without compromising the main utility of the app. More detailed analytics can be integrated after carefuly assesing what analytics are actually generally useful for the companies.
 
 - **Customer Loyalty Programs:** Can be developed later as part of marketing enhancements to award loyality.
 

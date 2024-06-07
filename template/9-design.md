@@ -4,9 +4,9 @@
 
 #### Implementation framework
 
-The application will be developed for Android using Kotlin. This approach ensures a modern, null-safe and efficient implementation of the app's UI and business logic.
+The application will be developed for Android using Kotlin. We chose this approach as Kotlin is the main supported language on this platform and we will profit from its modern (null-safe) features to produce an efficient implementation of the app's UI and business logic.
 
-#### Dynamic UI Rendering Strategy
+#### UI flows
 
 Composed of two primary flows (Admin flow and Crew/Pilot flow), our JetBrains Compose based UI will render different screens depending on the type of user. This routing enables efficient navigation through app features.
 
@@ -15,7 +15,7 @@ Composed of two primary flows (Admin flow and Crew/Pilot flow), our JetBrains Co
 
 #### Framework
 
-Mainly, Jetpack Compose framework will be employed for UI realization. Tailored specifically for our immediate needs, the UI is not subjected to constant changes.
+Mainly, Jetpack Compose framework will be employed for UI realization. We chose it as it is widely used, well suported and has modern features and overall design. Our UI will not need constant changes, we want to focus and quality and robustness instead.
 
 ## Backend
 
@@ -39,9 +39,9 @@ The Firestore database will be structured much like a SQL database with specific
 
 Database schemas comprise:
 
-* Balloons, vehicles, baskets schemas for inventory.  
-* Flight, flight types, flight traces, and flight-member relation schemas for flight lifecycle management.  
-* Locations, message group, and message schemas for real-time updates and message storage.  
+- Balloons, vehicles, baskets schemas for inventory.
+- Flight, flight types, flight traces, and flight-member relation schemas for flight lifecycle management.
+- Locations, message group, and message schemas for real-time updates and message storage.
 
 ![](./assets/data-model.png)
 
@@ -62,8 +62,9 @@ Tests will be systematically carried out upon deployment/update.
 Given the mainly static nature of the UI, extensive testing protocols will be developed to ensure user experience consistency.
 
 #### Backend Tests
+
 Consistency tests on the Firestore database will ascertain data integrity and correctness. Additionally, appropriate mockups of all Firebase products will be developed for a satisfactory testing environment.
 
 #### Performance Testing
 
-Performance tests will primarily focus on the Flight screen, particularly location tracking and recording functions - the expected bottlenecks. A stress test on messages and push notifications will also be done for smooth app functionality. Given the business nature of the app catering to a group of ~30 persons, high traffic is not a concern, still ensuring app performance is of utmost importance.
+Performance tests will primarily focus on the Flight screen, particularly location tracking and recording functions - the expected bottlenecks. A stress test on messages and push notifications will also be done for smooth app functionality. Given the business nature of the app catering to a group of ~30 persons, high traffic is not a concern.
