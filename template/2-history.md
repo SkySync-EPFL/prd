@@ -9,7 +9,7 @@ final app. Theses includes:
 - There are different user roles, including Admin, Pilot, and Crew, each with specific responsibilities
 
   - Admin: Plans flights, assigns equipment and team
-  - Pilot: Can start and stop confirmetd flights to which they are assigned. They can only start a flight on the day and timeslot (AM or PM)it is scheduled
+  - Pilot: Can start and stop confirmed flights to which they are assigned. They can only start a flight on the day and timeslot (AM or PM)it is scheduled
   - Pilot and Crew: Can provide their availabilities using an integrated calendar.
 
 - Users assigned to the same flight have access to a chat to faciliate communication during the flight.

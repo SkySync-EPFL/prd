@@ -12,4 +12,4 @@ SkySync is the ultimate operational companion for hot-air balloon companies seek
 
 **Scalability:** Whether you’re a small, family-run operation or a larger company looking to expand, SkySync is designed to scale with your business. Effortlessly manage multiple balloons and crew members, expand your operations, and customize features to suit your growing business needs without losing the quality of service or operational control.
 
-In essence, SkySync doesn’t just support your business—it propels it forward, making it more efficient, safe, and customer-focused. By choosing our solution, you are not just adopting new software; you are embracing a strategic partner committed to elevating your hot-air balloon company to new heights of success.
+In essence, SkySync doesn’t just support your business: it propels it forward, making it more efficient, safe, and customer-focused. By choosing our solution, you are not just adopting new software; you are embracing a strategic partner committed to elevating your hot-air balloon company to new heights of success.

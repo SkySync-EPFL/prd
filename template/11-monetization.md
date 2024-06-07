@@ -4,7 +4,7 @@
 
 **1. Development Costs:**
 
-- Salaries for Developers: Based on the need for a Lead Developer and a Client Customization Developer, estimated costs will depend on their expertise and regional salary standards.
+- Salaries for Developers: Based on the need for a Lead Developer, Frontend Developer and Client Customization Developer, estimated costs will depend on their expertise and regional salary standards.
 - Quality Assurance: Salaries for QA personnel to ensure software reliability and performance.
 
 **2.Sales and Marketing Costs:**
@@ -15,7 +15,7 @@
 **3.Support and Operations:**
 
 - Technical Support Staff: Salaries for staff providing client support and troubleshooting.
-- Infrastructure Costs: Monthly expenses for servers, cloud services, and other IT infrastructure to support app functionality and data security.
+- Infrastructure Costs: Monthly expenses for cloud services and other IT infrastructure to support app functionality and data security.
 
 **4.Administrative Costs:**
 
