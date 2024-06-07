@@ -41,7 +41,7 @@
 
 ## Success Criteria
 
-**1. Adoption:** for committed companies: ≥80% of their flights for which the app was used during the hot-air balloon summer season (July till end of September) .
+**1. Adoption:** for committed companies: minimum of 80% of their flights for which the app was used during the hot-air balloon summer season (July till end of September) .
 
 **2. Feedback:** the average of ratings gathered through feedback surveys within the app and ratings shared on the play store should be at least 4 out of 5
 
